@@ -1,5 +1,6 @@
 # Learn to Program: Crafting Quality Code
  Activity repository for the **Learn to Program: Crafting Quality Code** course at **UofT - University of Toronto** (via Coursera.org) by student **Ariel Ladislau Reises**.
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arielreises/)
 
 
