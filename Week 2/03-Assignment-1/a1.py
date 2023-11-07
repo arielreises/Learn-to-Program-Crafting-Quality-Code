@@ -1,3 +1,8 @@
+# UofT - University of Toronto
+# Course - Learn to Program: Crafting Quality Code
+# Student: Ariel Ladislau Reises
+# Github: github.com/arielreises
+
 def num_buses(n):
     """ (int) -> int
 
